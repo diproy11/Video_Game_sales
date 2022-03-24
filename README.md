@@ -1,8 +1,10 @@
 # Video_Game_sales
 
 # Title：Video Game Sales Prediction
-# Level : Intermediate
-# Category：Regression
+# Level : 
+* Intermediate
+# Category：
+* Regression
 # Problem Description: 
 In this data we need to estimate the global sales.
 
